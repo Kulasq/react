@@ -24,3 +24,12 @@
     padding: 8px;
     text-decoration: none;
 }
+
+.errorMessage {
+    color: #ff4d4d;
+    font-size: 1rem;
+    margin-top: 10px;
+    background-color: #ffe5e5;
+    padding: 10px;
+    border-radius: 5px;
+}
